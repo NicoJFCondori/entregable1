@@ -62,6 +62,7 @@ h5 {
 }
 
 .addPhraseInput input {
+    background-color: lightcyan;
     margin-right: 10px;
     padding: 5px;
     border: 1px solid #ccc;
