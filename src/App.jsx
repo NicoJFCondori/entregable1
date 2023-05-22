@@ -19,7 +19,7 @@ function App() {
   const [backRandom, setbackRandom] = useState(initialImage)
 
   const objStyle = {
-    backgroundImage : `url(/public/fondo${backRandom}.jpg)`
+    backgroundImage : `url(/imgs/fondo${backRandom}.jpg)`
   }
 
   const [inputValue, setInputValue] = useState('');
