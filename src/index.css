@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    
+}
+
+h1,h2,p {
+    margin-top: 0;
+    margin-bottom: 0;
+    
+    
+}
+
+button {
+    border: none;
+    font-family: inherit;
+}
+
+h1 {
+    font-size: 3em;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    text-align: center;
+    text-shadow: 6px 6px 10px rgba(0, 0, 0, 0.5);
+    
+    
+}
+
